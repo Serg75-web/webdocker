@@ -51,4 +51,4 @@ out/
 
 img.png
 webdocker.iml
-/data
+data/
