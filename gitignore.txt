@@ -15,6 +15,7 @@ build/
 
 ### IntelliJ IDEA ###
 .idea
+.data
 *.iws
 *.iml
 *.ipr
@@ -38,6 +39,8 @@ out/
 *.zip
 *.tar.gz
 *.rar
+*.png
+*.iml
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
