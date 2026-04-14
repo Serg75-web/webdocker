@@ -49,4 +49,6 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-
+img.png
+webdocker.iml
+/data
